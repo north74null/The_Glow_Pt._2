@@ -171,11 +171,6 @@ body {
     height: 50vh;
     z-index: 2;
     transition: 1.5s;
-    -webkit-filter: drop-shadow(0 0 30px #000000);
-    -moz-filter: drop-shadow(0 0 30px #000000);
-    -o-filter: drop-shadow(0 0 30px #000000);
-    -ms-filter: drop-shadow(0 0 30px #000000);
-    filter: drop-shadow(0 0 30px #000000);
 }
 
 #cover:hover+#cd {
