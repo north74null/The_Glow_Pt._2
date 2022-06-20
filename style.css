@@ -156,7 +156,6 @@ body {
     width: 50vh;
     height: 50vh;
     transition: 1.5s;
-    box-shadow: 0 0 300px 30px;
     position: absolute;
     top: 0;
     right: 0;
@@ -183,13 +182,6 @@ body {
     transform: translateX(12.5vh) rotate(360deg);
 }
 
-.shadow {
-    box-shadow: 0 0 200px 200px;
-    position: absolute;
-    top: 100vh;
-    z-index: 1;
-    width: 100vw;
-}
 
 
 textarea, input{
